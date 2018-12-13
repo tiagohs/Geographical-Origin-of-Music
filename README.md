@@ -462,23 +462,23 @@ O de leitura para garantir que estamos trabalhando com o conjunto de dados base 
 
 ### Questões
 
-**Neurônios na camada escondida ?
+**Neurônios na camada escondida ?**
 
 256 na camada oculta
 2 neurônios na camada de Saída
 
-**Quantas Camadas?
+**Quantas Camadas?**
 
 Utilizaremos Duas Camadas, sendo uma camada oculta e uma camada de saída (completamente conectadas).
 
-**Com Regularização? Qual?
+**Com Regularização? Qual?**
 
 Sim.
 Utilizamos Dropout e Pooling.
 
-**Qual a melhor taxa de aprendizado?
+**Qual a melhor taxa de aprendizado?**
 
-**Qual a função de ativação usada ?
+**Qual a função de ativação usada ?**
 
 Na Camada de Saída, utilizamos a *softmax*
 Na Camada escondida, utlizaremos a *relu*
